@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BackEnd_Нагорнов_А.В._ЛР2/1.0.0": {
+        "runtime": {
+          "BackEnd_Нагорнов_А.В._ЛР2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackEnd_Нагорнов_А.В._ЛР2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

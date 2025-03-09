@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BackEnd_Нагорнов_А.В._ЛР2.props" />
+</Project>
